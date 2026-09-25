@@ -52,13 +52,13 @@ Extends the analysis from structured transaction data into unstructured customer
 ---
 
 ## Repo structure
-├── Initial-dataset/ # Raw source e-commerce dataset
-├── Project-1/ # EDA & Feature Engineering
-├── Project-2/ # Fraud Detection (Logistic Regression vs Random Forest + SMOTE)
-├── Project-3/ # Customer Segmentation (K-Means)
-├── Project-4/ # NLP Sentiment Analysis (TF-IDF + Naive Bayes)
-└── README.md
 
+    ├── Initial-dataset/        # Raw source e-commerce dataset
+    ├── Project-1/               # EDA & Feature Engineering
+    ├── Project-2/               # Fraud Detection (Logistic Regression vs Random Forest + SMOTE)
+    ├── Project-3/               # Customer Segmentation (K-Means)
+    ├── Project-4/               # NLP Sentiment Analysis (TF-IDF + Naive Bayes)
+    └── README.md
 
 ## Stack
 
