@@ -37,7 +37,7 @@ Across the 15-component PCA feature space, the final 4-cluster model achieved a 
 
 The Project 1 dataset used for customer aggregation is available in the project repository:
 
-https://github.com/rsf-rawnak/DecodeLabs-DS-Internship/blob/main/Initial-dataset/Cleaned-dataset/cleaned_dataset_project1.csv
+https://github.com/rsf-rawnak/DecodeLabs-DS-Internship/blob/main/Initial-dataset/cleaned_dataset_project1.csv
 
 ## Pipeline Structure
 
